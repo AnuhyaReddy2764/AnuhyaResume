@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K Anuhya Reddy - Resume</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-size: 1.1rem;
+            color: #343a40;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 2rem;
+        }
+        .section-title {
+            font-weight: bold;
+            font-size: 1.5rem;
+            margin-top: 1.5rem;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 0.5rem;
+        }
+        .contact-info {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+        .contact-info p {
+            margin: 0;
+        }
+        .badge-skill {
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Header Section -->
+    <div class="text-center contact-info">
+        <h1>K Anuhya Reddy</h1>
+        <p>Hyderabad, India</p>
+        <p>+91 6303066854</p>
+        <p><a href="mailto:kanugantianuhyareddy@gmail.com">kanugantianuhyareddy@gmail.com</a></p>
+        <p><a href="#">LinkedIn</a> | <a href="#">GitHub</a></p>
+    </div>
+
+    <!-- Objective Section -->
+    <div>
+        <h2 class="section-title">Objective</h2>
+        <p>To secure a position that challenges me and allows me to fully utilize my abilities, offering opportunities for both professional and personal growth.</p>
+    </div>
+
+    <!-- Education Section -->
+    <div>
+        <h2 class="section-title">Education</h2>
+        <p><strong>Bachelor of CSE - Data Science</strong><br>
+            B V Raju Institute of Technology, Narsapur, Expected 2026<br>
+            CGPA: 8.79</p>
+        <p><strong>Intermediate - MPC</strong><br>
+            SR Junior College, 2020 - 2022<br>
+            Percentage: 94.4%</p>
+    </div>
+
+    <!-- Skills Section -->
+    <div>
+        <h2 class="section-title">Skills</h2>
+        <p><strong>Programming:</strong> Java, SQL, Python, JavaScript</p>
+        <p><strong>Web Development:</strong> HTML, CSS, Bootstrap, ReactJs</p>
+        <p><strong>Data Science:</strong> Pandas, NumPy, scikit-learn, Matplotlib</p>
+        <p><strong>Tools:</strong> Jupyter Notebooks, GitHub, Excel, Word, PowerPoint</p>
+    </div>
+
+    <!-- Experience Section -->
+    <div>
+        <h2 class="section-title">Experience</h2>
+        <p><strong>Summer Of AI Internship Program</strong><br>
+            Swecha Telangana, Summer 2024</p>
+        <ul>
+            <li>Developed and enhanced AI models for the Telugu language.</li>
+            <li>Created and evaluated an Automatic Speech Recognition (ASR) model.</li>
+            <li>Collaborated on language processing tools for regional languages.</li>
+        </ul>
+    </div>
+
+    <!-- Projects Section -->
+    <div>
+        <h2 class="section-title">Projects</h2>
+        <p><strong>Empowering the Deaf</strong><br>
+            Developed a website for learning American Sign Language (ASL) with video tutorials and feedback mechanisms.</p>
+        <p><strong>Technologies Used:</strong> HTML, CSS, JavaScript (Frontend); PHP, MySQL (Backend)</p>
+    </div>
+
+    <!-- Achievements Section -->
+    <div>
+        <h2 class="section-title">Achievements</h2>
+        <ul>
+            <li>Selected for the NxtWave-NSDC Fellowship.</li>
+            <li>InTrainZ – Certificate of Volunteer-ship.</li>
+        </ul>
+    </div>
+
+    <!-- Certifications Section -->
+    <div>
+        <h2 class="section-title">Certifications</h2>
+        <ul>
+            <li>NPTEL - Joy of Computing using Python, 2023</li>
+            <li>NPTEL - Programming in Java, 2023</li>
+            <li>Infosys Spring Board – Java Stack Developer, 2024</li>
+            <li>Forage - Bank of America Investment Banking Job Simulation, 2024</li>
+            <li>Hackerrank - Python (Basic), Java (Basic)</li>
+        </ul>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
